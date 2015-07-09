@@ -1,0 +1,13 @@
+Documentation for the net_module:
+
+Things to do:
+
+Sending side:
+
+1) Storing the packet in the memory
+2) API for device driver
+3) transmitting to device driver
+
+Receiving side:
+
+1) Processing the packet
